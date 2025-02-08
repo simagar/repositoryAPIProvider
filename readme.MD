@@ -6,7 +6,7 @@ this utility has dependency to several things
 
 ## 1. auth store
 
-you need to import and use authStore inside `useAxios.ts`. the instructions are pretty straght forward inside the file
+you need to import and use authStore inside `useApi.ts`. the instructions are pretty straght forward inside the file
 itself
 
 ## 2. alert
@@ -15,4 +15,4 @@ you need to import and configure your own toast notification plugin for error ha
 
 ## IMPORTANT NOTE
 
-Please refer to other projects such Rond-Client for more examples
+Please refer to other projects such Azma-Client for more examples
